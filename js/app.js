@@ -39,7 +39,7 @@ Player.prototype.update = function(dt) {
             // Display message in console:
             console.log("The bug omnomnom'd you!");
             // Set update velocity:
-            this.x += this.velocity * dt;
+            //this.x += this.velocity * dt;
         }
     }
     
