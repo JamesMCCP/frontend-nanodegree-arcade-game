@@ -183,8 +183,8 @@
         'images/stone-block.png',
         'images/water-block.png',
         'images/grass-block.png',
-        'images/enemy-bug.png',
-        'images/char-boy.png'
+        'images/shell-trans.png',
+        'images/MarioBack.png'
     ]);
     Resources.onReady(init);
 
